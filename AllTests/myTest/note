@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install dlib
+pip install numpy
+
+python face_landmark_distance.py
+
+https://medium.com/mlearning-ai/face-landmarks-detection-using-dlib-with-source-code-easy-implementation-4118dcfaf40e
