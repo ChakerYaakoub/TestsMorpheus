@@ -1,4 +1,4 @@
-# Morpheus - AI Landmark Detection & Distance Calculation
+# Morpheus - AI Landmark Face Detection & Distance Calculation
 
 This ongoing project, Morpheus, is part of the M1 Project and focuses on AI-based landmark detection and distance calculation. The project utilizes various technologies such as Python, MediaPipe, OpenCV, and React Native.
 
